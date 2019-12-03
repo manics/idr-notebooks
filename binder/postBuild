@@ -1,0 +1,2 @@
+# https://github.com/jupyter/repo2docker/blob/548b9c8cde5ed08f0ac4c1139f61d234c89cef92/repo2docker/buildpacks/conda/environment.yml#L4
+jupyter labextension install jupyterlab_bokeh@^0.6.3

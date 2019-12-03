@@ -1,0 +1,27 @@
+name: python3
+channels:
+- ome
+- manics
+- conda-forge
+- defaults
+- bioconda
+- manics/label/testing
+dependencies:
+# ome
+- omero-py
+# bioconda
+- gseapy
+# conda-forge
+- bokeh
+- joblib
+- markdown
+- py2cytoscape
+- python-graphviz
+- python-igraph
+- scikit-learn
+- seaborn
+- tqdm
+- pydot
+# manics
+- idr-py
+- jupyter-offlinenotebook
